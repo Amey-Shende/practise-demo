@@ -5,7 +5,7 @@ import Register from "./components/Register";
 
 export const UserContext = createContext(null);
 function App() {
-  // This is comment form github
+
   return (
     <div>
       {/* <EventComponent /> */}
